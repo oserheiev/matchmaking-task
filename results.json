@@ -1,0 +1,4670 @@
+{
+  "restPlayers": [
+    {
+      "id": 266,
+      "skill": 0
+    },
+    {
+      "id": 819,
+      "skill": 0
+    },
+    {
+      "id": 905,
+      "skill": 0
+    },
+    {
+      "id": 978,
+      "skill": 0
+    }
+  ],
+  "matches": [
+    {
+      "id": "71356643-7867-4627-a896-8ab4332fcfd8",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 36,
+          "skill": 100
+        },
+        {
+          "id": 256,
+          "skill": 100
+        },
+        {
+          "id": 484,
+          "skill": 100
+        },
+        {
+          "id": 783,
+          "skill": 100
+        },
+        {
+          "id": 162,
+          "skill": 99
+        },
+        {
+          "id": 481,
+          "skill": 99
+        }
+      ],
+      "teamB": [
+        {
+          "id": 174,
+          "skill": 100
+        },
+        {
+          "id": 290,
+          "skill": 100
+        },
+        {
+          "id": 530,
+          "skill": 100
+        },
+        {
+          "id": 797,
+          "skill": 100
+        },
+        {
+          "id": 286,
+          "skill": 99
+        },
+        {
+          "id": 25,
+          "skill": 100
+        }
+      ]
+    },
+    {
+      "id": "cb101eb9-372a-4dc9-97b8-e0f8c29521bb",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 700,
+          "skill": 99
+        },
+        {
+          "id": 998,
+          "skill": 99
+        },
+        {
+          "id": 189,
+          "skill": 98
+        },
+        {
+          "id": 426,
+          "skill": 98
+        },
+        {
+          "id": 587,
+          "skill": 98
+        },
+        {
+          "id": 813,
+          "skill": 98
+        }
+      ],
+      "teamB": [
+        {
+          "id": 794,
+          "skill": 99
+        },
+        {
+          "id": 125,
+          "skill": 98
+        },
+        {
+          "id": 230,
+          "skill": 98
+        },
+        {
+          "id": 506,
+          "skill": 98
+        },
+        {
+          "id": 755,
+          "skill": 98
+        },
+        {
+          "id": 554,
+          "skill": 99
+        }
+      ]
+    },
+    {
+      "id": "23649d08-cddf-4adb-9331-d2b4fb14b23b",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 902,
+          "skill": 98
+        },
+        {
+          "id": 21,
+          "skill": 97
+        },
+        {
+          "id": 362,
+          "skill": 97
+        },
+        {
+          "id": 649,
+          "skill": 97
+        },
+        {
+          "id": 855,
+          "skill": 97
+        },
+        {
+          "id": 166,
+          "skill": 96
+        }
+      ],
+      "teamB": [
+        {
+          "id": 927,
+          "skill": 98
+        },
+        {
+          "id": 245,
+          "skill": 97
+        },
+        {
+          "id": 568,
+          "skill": 97
+        },
+        {
+          "id": 709,
+          "skill": 97
+        },
+        {
+          "id": 157,
+          "skill": 96
+        },
+        {
+          "id": 860,
+          "skill": 98
+        }
+      ]
+    },
+    {
+      "id": "26f05e14-2ecc-428d-be2b-75fef27581bf",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 240,
+          "skill": 96
+        },
+        {
+          "id": 499,
+          "skill": 96
+        },
+        {
+          "id": 758,
+          "skill": 96
+        },
+        {
+          "id": 997,
+          "skill": 96
+        },
+        {
+          "id": 576,
+          "skill": 95
+        },
+        {
+          "id": 805,
+          "skill": 95
+        }
+      ],
+      "teamB": [
+        {
+          "id": 417,
+          "skill": 96
+        },
+        {
+          "id": 690,
+          "skill": 96
+        },
+        {
+          "id": 959,
+          "skill": 96
+        },
+        {
+          "id": 177,
+          "skill": 95
+        },
+        {
+          "id": 751,
+          "skill": 95
+        },
+        {
+          "id": 224,
+          "skill": 96
+        }
+      ]
+    },
+    {
+      "id": "e9f2488a-7f32-4cfa-acfc-21ec111ab4ac",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 923,
+          "skill": 95
+        },
+        {
+          "id": 985,
+          "skill": 95
+        },
+        {
+          "id": 203,
+          "skill": 94
+        },
+        {
+          "id": 412,
+          "skill": 94
+        },
+        {
+          "id": 673,
+          "skill": 94
+        },
+        {
+          "id": 987,
+          "skill": 94
+        }
+      ],
+      "teamB": [
+        {
+          "id": 964,
+          "skill": 95
+        },
+        {
+          "id": 59,
+          "skill": 94
+        },
+        {
+          "id": 323,
+          "skill": 94
+        },
+        {
+          "id": 557,
+          "skill": 94
+        },
+        {
+          "id": 696,
+          "skill": 94
+        },
+        {
+          "id": 911,
+          "skill": 95
+        }
+      ]
+    },
+    {
+      "id": "feb318ba-ac70-47c9-9001-6be5c9422778",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 73,
+          "skill": 93
+        },
+        {
+          "id": 179,
+          "skill": 93
+        },
+        {
+          "id": 217,
+          "skill": 93
+        },
+        {
+          "id": 391,
+          "skill": 93
+        },
+        {
+          "id": 445,
+          "skill": 93
+        },
+        {
+          "id": 789,
+          "skill": 93
+        }
+      ],
+      "teamB": [
+        {
+          "id": 83,
+          "skill": 93
+        },
+        {
+          "id": 198,
+          "skill": 93
+        },
+        {
+          "id": 322,
+          "skill": 93
+        },
+        {
+          "id": 403,
+          "skill": 93
+        },
+        {
+          "id": 708,
+          "skill": 93
+        },
+        {
+          "id": 41,
+          "skill": 93
+        }
+      ]
+    },
+    {
+      "id": "c64b361e-d693-4f00-86ac-fd6e25c41768",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 967,
+          "skill": 93
+        },
+        {
+          "id": 75,
+          "skill": 92
+        },
+        {
+          "id": 718,
+          "skill": 92
+        },
+        {
+          "id": 49,
+          "skill": 91
+        },
+        {
+          "id": 146,
+          "skill": 91
+        },
+        {
+          "id": 604,
+          "skill": 91
+        }
+      ],
+      "teamB": [
+        {
+          "id": 68,
+          "skill": 92
+        },
+        {
+          "id": 328,
+          "skill": 92
+        },
+        {
+          "id": 845,
+          "skill": 92
+        },
+        {
+          "id": 144,
+          "skill": 91
+        },
+        {
+          "id": 259,
+          "skill": 91
+        },
+        {
+          "id": 849,
+          "skill": 93
+        }
+      ]
+    },
+    {
+      "id": "b41cded1-07a0-45b1-8d80-300a7f91dd86",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 638,
+          "skill": 91
+        },
+        {
+          "id": 883,
+          "skill": 91
+        },
+        {
+          "id": 27,
+          "skill": 90
+        },
+        {
+          "id": 246,
+          "skill": 90
+        },
+        {
+          "id": 360,
+          "skill": 90
+        },
+        {
+          "id": 574,
+          "skill": 90
+        }
+      ],
+      "teamB": [
+        {
+          "id": 807,
+          "skill": 91
+        },
+        {
+          "id": 947,
+          "skill": 91
+        },
+        {
+          "id": 89,
+          "skill": 90
+        },
+        {
+          "id": 338,
+          "skill": 90
+        },
+        {
+          "id": 440,
+          "skill": 90
+        },
+        {
+          "id": 606,
+          "skill": 91
+        }
+      ]
+    },
+    {
+      "id": "6ad80f62-772f-4ccc-bda0-bbd48e983b65",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 712,
+          "skill": 90
+        },
+        {
+          "id": 22,
+          "skill": 89
+        },
+        {
+          "id": 214,
+          "skill": 89
+        },
+        {
+          "id": 257,
+          "skill": 89
+        },
+        {
+          "id": 397,
+          "skill": 89
+        },
+        {
+          "id": 543,
+          "skill": 89
+        }
+      ],
+      "teamB": [
+        {
+          "id": 853,
+          "skill": 90
+        },
+        {
+          "id": 79,
+          "skill": 89
+        },
+        {
+          "id": 254,
+          "skill": 89
+        },
+        {
+          "id": 267,
+          "skill": 89
+        },
+        {
+          "id": 436,
+          "skill": 89
+        },
+        {
+          "id": 705,
+          "skill": 90
+        }
+      ]
+    },
+    {
+      "id": "21d17cf5-7c67-491a-9cb8-b1cc7ea7966c",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 691,
+          "skill": 89
+        },
+        {
+          "id": 765,
+          "skill": 89
+        },
+        {
+          "id": 76,
+          "skill": 88
+        },
+        {
+          "id": 190,
+          "skill": 88
+        },
+        {
+          "id": 838,
+          "skill": 88
+        },
+        {
+          "id": 888,
+          "skill": 88
+        }
+      ],
+      "teamB": [
+        {
+          "id": 743,
+          "skill": 89
+        },
+        {
+          "id": 891,
+          "skill": 89
+        },
+        {
+          "id": 99,
+          "skill": 88
+        },
+        {
+          "id": 237,
+          "skill": 88
+        },
+        {
+          "id": 857,
+          "skill": 88
+        },
+        {
+          "id": 569,
+          "skill": 89
+        }
+      ]
+    },
+    {
+      "id": "437b66a1-946c-41cb-bbc4-9be5410f15ac",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 642,
+          "skill": 87
+        },
+        {
+          "id": 748,
+          "skill": 87
+        },
+        {
+          "id": 193,
+          "skill": 86
+        },
+        {
+          "id": 474,
+          "skill": 86
+        },
+        {
+          "id": 730,
+          "skill": 86
+        },
+        {
+          "id": 733,
+          "skill": 86
+        }
+      ],
+      "teamB": [
+        {
+          "id": 650,
+          "skill": 87
+        },
+        {
+          "id": 119,
+          "skill": 86
+        },
+        {
+          "id": 444,
+          "skill": 86
+        },
+        {
+          "id": 681,
+          "skill": 86
+        },
+        {
+          "id": 731,
+          "skill": 86
+        },
+        {
+          "id": 908,
+          "skill": 88
+        }
+      ]
+    },
+    {
+      "id": "666ecc1f-1e59-4408-822e-d34409b5e192",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 778,
+          "skill": 86
+        },
+        {
+          "id": 17,
+          "skill": 85
+        },
+        {
+          "id": 281,
+          "skill": 85
+        },
+        {
+          "id": 425,
+          "skill": 85
+        },
+        {
+          "id": 514,
+          "skill": 85
+        },
+        {
+          "id": 698,
+          "skill": 85
+        }
+      ],
+      "teamB": [
+        {
+          "id": 806,
+          "skill": 86
+        },
+        {
+          "id": 64,
+          "skill": 85
+        },
+        {
+          "id": 311,
+          "skill": 85
+        },
+        {
+          "id": 492,
+          "skill": 85
+        },
+        {
+          "id": 538,
+          "skill": 85
+        },
+        {
+          "id": 742,
+          "skill": 86
+        }
+      ]
+    },
+    {
+      "id": "00431507-b8d1-47c8-b27c-bb7f40cf39a2",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 94,
+          "skill": 84
+        },
+        {
+          "id": 169,
+          "skill": 84
+        },
+        {
+          "id": 306,
+          "skill": 84
+        },
+        {
+          "id": 350,
+          "skill": 84
+        },
+        {
+          "id": 407,
+          "skill": 84
+        },
+        {
+          "id": 760,
+          "skill": 84
+        }
+      ],
+      "teamB": [
+        {
+          "id": 120,
+          "skill": 84
+        },
+        {
+          "id": 172,
+          "skill": 84
+        },
+        {
+          "id": 344,
+          "skill": 84
+        },
+        {
+          "id": 363,
+          "skill": 84
+        },
+        {
+          "id": 613,
+          "skill": 84
+        },
+        {
+          "id": 973,
+          "skill": 85
+        }
+      ]
+    },
+    {
+      "id": "29b2ae53-d6fe-4cae-9b8b-868aa791d6a3",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 992,
+          "skill": 84
+        },
+        {
+          "id": 183,
+          "skill": 83
+        },
+        {
+          "id": 231,
+          "skill": 83
+        },
+        {
+          "id": 461,
+          "skill": 83
+        },
+        {
+          "id": 757,
+          "skill": 83
+        },
+        {
+          "id": 141,
+          "skill": 82
+        }
+      ],
+      "teamB": [
+        {
+          "id": 48,
+          "skill": 83
+        },
+        {
+          "id": 186,
+          "skill": 83
+        },
+        {
+          "id": 367,
+          "skill": 83
+        },
+        {
+          "id": 667,
+          "skill": 83
+        },
+        {
+          "id": 810,
+          "skill": 83
+        },
+        {
+          "id": 804,
+          "skill": 84
+        }
+      ]
+    },
+    {
+      "id": "555ae3f1-de0c-4af6-8b46-517939092d5a",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 247,
+          "skill": 82
+        },
+        {
+          "id": 922,
+          "skill": 82
+        },
+        {
+          "id": 145,
+          "skill": 81
+        },
+        {
+          "id": 273,
+          "skill": 81
+        },
+        {
+          "id": 533,
+          "skill": 81
+        },
+        {
+          "id": 792,
+          "skill": 81
+        }
+      ],
+      "teamB": [
+        {
+          "id": 640,
+          "skill": 82
+        },
+        {
+          "id": 934,
+          "skill": 82
+        },
+        {
+          "id": 155,
+          "skill": 81
+        },
+        {
+          "id": 333,
+          "skill": 81
+        },
+        {
+          "id": 682,
+          "skill": 81
+        },
+        {
+          "id": 215,
+          "skill": 82
+        }
+      ]
+    },
+    {
+      "id": "006a9d0b-da64-46cb-973f-c024aee1019d",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 862,
+          "skill": 81
+        },
+        {
+          "id": 124,
+          "skill": 80
+        },
+        {
+          "id": 517,
+          "skill": 80
+        },
+        {
+          "id": 727,
+          "skill": 80
+        },
+        {
+          "id": 912,
+          "skill": 80
+        },
+        {
+          "id": 138,
+          "skill": 79
+        }
+      ],
+      "teamB": [
+        {
+          "id": 951,
+          "skill": 81
+        },
+        {
+          "id": 204,
+          "skill": 80
+        },
+        {
+          "id": 610,
+          "skill": 80
+        },
+        {
+          "id": 777,
+          "skill": 80
+        },
+        {
+          "id": 129,
+          "skill": 79
+        },
+        {
+          "id": 818,
+          "skill": 81
+        }
+      ]
+    },
+    {
+      "id": "515c0308-728f-4331-af5b-1520dfd2a100",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 300,
+          "skill": 79
+        },
+        {
+          "id": 750,
+          "skill": 79
+        },
+        {
+          "id": 972,
+          "skill": 79
+        },
+        {
+          "id": 356,
+          "skill": 78
+        },
+        {
+          "id": 825,
+          "skill": 78
+        },
+        {
+          "id": 925,
+          "skill": 78
+        }
+      ],
+      "teamB": [
+        {
+          "id": 369,
+          "skill": 79
+        },
+        {
+          "id": 895,
+          "skill": 79
+        },
+        {
+          "id": 8,
+          "skill": 78
+        },
+        {
+          "id": 739,
+          "skill": 78
+        },
+        {
+          "id": 915,
+          "skill": 78
+        },
+        {
+          "id": 167,
+          "skill": 79
+        }
+      ]
+    },
+    {
+      "id": "6ed0f34c-f8e6-4ea9-8a7e-1bfc9f1f1983",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 109,
+          "skill": 77
+        },
+        {
+          "id": 301,
+          "skill": 77
+        },
+        {
+          "id": 421,
+          "skill": 77
+        },
+        {
+          "id": 724,
+          "skill": 77
+        },
+        {
+          "id": 136,
+          "skill": 76
+        },
+        {
+          "id": 442,
+          "skill": 76
+        }
+      ],
+      "teamB": [
+        {
+          "id": 283,
+          "skill": 77
+        },
+        {
+          "id": 351,
+          "skill": 77
+        },
+        {
+          "id": 488,
+          "skill": 77
+        },
+        {
+          "id": 23,
+          "skill": 76
+        },
+        {
+          "id": 280,
+          "skill": 76
+        },
+        {
+          "id": 86,
+          "skill": 77
+        }
+      ]
+    },
+    {
+      "id": "217eaecf-acb7-4370-81dc-4a132bce5f89",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 486,
+          "skill": 76
+        },
+        {
+          "id": 527,
+          "skill": 76
+        },
+        {
+          "id": 817,
+          "skill": 76
+        },
+        {
+          "id": 131,
+          "skill": 75
+        },
+        {
+          "id": 378,
+          "skill": 75
+        },
+        {
+          "id": 657,
+          "skill": 75
+        }
+      ],
+      "teamB": [
+        {
+          "id": 520,
+          "skill": 76
+        },
+        {
+          "id": 637,
+          "skill": 76
+        },
+        {
+          "id": 13,
+          "skill": 75
+        },
+        {
+          "id": 303,
+          "skill": 75
+        },
+        {
+          "id": 505,
+          "skill": 75
+        },
+        {
+          "id": 482,
+          "skill": 76
+        }
+      ]
+    },
+    {
+      "id": "3ee58061-2e75-4ce4-9d22-77c1893c6072",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 688,
+          "skill": 75
+        },
+        {
+          "id": 873,
+          "skill": 75
+        },
+        {
+          "id": 82,
+          "skill": 74
+        },
+        {
+          "id": 118,
+          "skill": 74
+        },
+        {
+          "id": 274,
+          "skill": 74
+        },
+        {
+          "id": 394,
+          "skill": 74
+        }
+      ],
+      "teamB": [
+        {
+          "id": 734,
+          "skill": 75
+        },
+        {
+          "id": 963,
+          "skill": 75
+        },
+        {
+          "id": 103,
+          "skill": 74
+        },
+        {
+          "id": 132,
+          "skill": 74
+        },
+        {
+          "id": 277,
+          "skill": 74
+        },
+        {
+          "id": 685,
+          "skill": 75
+        }
+      ]
+    },
+    {
+      "id": "90c74717-21e2-4233-bb25-781437da0856",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 462,
+          "skill": 74
+        },
+        {
+          "id": 619,
+          "skill": 74
+        },
+        {
+          "id": 735,
+          "skill": 74
+        },
+        {
+          "id": 105,
+          "skill": 73
+        },
+        {
+          "id": 191,
+          "skill": 73
+        },
+        {
+          "id": 243,
+          "skill": 73
+        }
+      ],
+      "teamB": [
+        {
+          "id": 502,
+          "skill": 74
+        },
+        {
+          "id": 715,
+          "skill": 74
+        },
+        {
+          "id": 983,
+          "skill": 74
+        },
+        {
+          "id": 158,
+          "skill": 73
+        },
+        {
+          "id": 235,
+          "skill": 73
+        },
+        {
+          "id": 450,
+          "skill": 74
+        }
+      ]
+    },
+    {
+      "id": "af629044-801e-4967-98fe-53f59b4e1256",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 575,
+          "skill": 73
+        },
+        {
+          "id": 592,
+          "skill": 73
+        },
+        {
+          "id": 625,
+          "skill": 73
+        },
+        {
+          "id": 656,
+          "skill": 73
+        },
+        {
+          "id": 766,
+          "skill": 73
+        },
+        {
+          "id": 901,
+          "skill": 73
+        }
+      ],
+      "teamB": [
+        {
+          "id": 579,
+          "skill": 73
+        },
+        {
+          "id": 624,
+          "skill": 73
+        },
+        {
+          "id": 635,
+          "skill": 73
+        },
+        {
+          "id": 674,
+          "skill": 73
+        },
+        {
+          "id": 835,
+          "skill": 73
+        },
+        {
+          "id": 496,
+          "skill": 73
+        }
+      ]
+    },
+    {
+      "id": "e2d03041-95ef-4371-b15c-7ec420014f07",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 960,
+          "skill": 73
+        },
+        {
+          "id": 355,
+          "skill": 72
+        },
+        {
+          "id": 413,
+          "skill": 72
+        },
+        {
+          "id": 608,
+          "skill": 72
+        },
+        {
+          "id": 904,
+          "skill": 72
+        },
+        {
+          "id": 5,
+          "skill": 71
+        }
+      ],
+      "teamB": [
+        {
+          "id": 173,
+          "skill": 72
+        },
+        {
+          "id": 393,
+          "skill": 72
+        },
+        {
+          "id": 448,
+          "skill": 72
+        },
+        {
+          "id": 820,
+          "skill": 72
+        },
+        {
+          "id": 948,
+          "skill": 72
+        },
+        {
+          "id": 920,
+          "skill": 73
+        }
+      ]
+    },
+    {
+      "id": "b45b2627-ee2f-4ad1-90f7-0a72f8d165d6",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 168,
+          "skill": 71
+        },
+        {
+          "id": 479,
+          "skill": 71
+        },
+        {
+          "id": 645,
+          "skill": 71
+        },
+        {
+          "id": 791,
+          "skill": 71
+        },
+        {
+          "id": 909,
+          "skill": 71
+        },
+        {
+          "id": 212,
+          "skill": 70
+        }
+      ],
+      "teamB": [
+        {
+          "id": 176,
+          "skill": 71
+        },
+        {
+          "id": 519,
+          "skill": 71
+        },
+        {
+          "id": 767,
+          "skill": 71
+        },
+        {
+          "id": 833,
+          "skill": 71
+        },
+        {
+          "id": 147,
+          "skill": 70
+        },
+        {
+          "id": 69,
+          "skill": 71
+        }
+      ]
+    },
+    {
+      "id": "2307fbb1-acd9-4877-aaf9-f31dba59454b",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 366,
+          "skill": 70
+        },
+        {
+          "id": 542,
+          "skill": 70
+        },
+        {
+          "id": 721,
+          "skill": 70
+        },
+        {
+          "id": 801,
+          "skill": 70
+        },
+        {
+          "id": 871,
+          "skill": 70
+        },
+        {
+          "id": 918,
+          "skill": 70
+        }
+      ],
+      "teamB": [
+        {
+          "id": 375,
+          "skill": 70
+        },
+        {
+          "id": 596,
+          "skill": 70
+        },
+        {
+          "id": 722,
+          "skill": 70
+        },
+        {
+          "id": 811,
+          "skill": 70
+        },
+        {
+          "id": 894,
+          "skill": 70
+        },
+        {
+          "id": 337,
+          "skill": 70
+        }
+      ]
+    },
+    {
+      "id": "594d012b-54e3-4acb-bf02-4f429aaeb1bf",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 61,
+          "skill": 69
+        },
+        {
+          "id": 197,
+          "skill": 69
+        },
+        {
+          "id": 358,
+          "skill": 69
+        },
+        {
+          "id": 644,
+          "skill": 69
+        },
+        {
+          "id": 887,
+          "skill": 69
+        },
+        {
+          "id": 84,
+          "skill": 68
+        }
+      ],
+      "teamB": [
+        {
+          "id": 143,
+          "skill": 69
+        },
+        {
+          "id": 304,
+          "skill": 69
+        },
+        {
+          "id": 566,
+          "skill": 69
+        },
+        {
+          "id": 854,
+          "skill": 69
+        },
+        {
+          "id": 957,
+          "skill": 69
+        },
+        {
+          "id": 43,
+          "skill": 69
+        }
+      ]
+    },
+    {
+      "id": "09eb0fcd-c486-4f6d-9fd6-10a68cdf8f99",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 234,
+          "skill": 68
+        },
+        {
+          "id": 341,
+          "skill": 68
+        },
+        {
+          "id": 521,
+          "skill": 68
+        },
+        {
+          "id": 916,
+          "skill": 68
+        },
+        {
+          "id": 2,
+          "skill": 67
+        },
+        {
+          "id": 56,
+          "skill": 67
+        }
+      ],
+      "teamB": [
+        {
+          "id": 327,
+          "skill": 68
+        },
+        {
+          "id": 371,
+          "skill": 68
+        },
+        {
+          "id": 889,
+          "skill": 68
+        },
+        {
+          "id": 924,
+          "skill": 68
+        },
+        {
+          "id": 55,
+          "skill": 67
+        },
+        {
+          "id": 209,
+          "skill": 68
+        }
+      ]
+    },
+    {
+      "id": "44b4ca7c-4d19-4f06-8452-2183937135e4",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 121,
+          "skill": 67
+        },
+        {
+          "id": 289,
+          "skill": 67
+        },
+        {
+          "id": 563,
+          "skill": 67
+        },
+        {
+          "id": 738,
+          "skill": 67
+        },
+        {
+          "id": 866,
+          "skill": 67
+        },
+        {
+          "id": 15,
+          "skill": 66
+        }
+      ],
+      "teamB": [
+        {
+          "id": 271,
+          "skill": 67
+        },
+        {
+          "id": 540,
+          "skill": 67
+        },
+        {
+          "id": 646,
+          "skill": 67
+        },
+        {
+          "id": 747,
+          "skill": 67
+        },
+        {
+          "id": 914,
+          "skill": 67
+        },
+        {
+          "id": 62,
+          "skill": 67
+        }
+      ]
+    },
+    {
+      "id": "592d61a6-0c5a-4dce-a361-3c3676c1bc74",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 107,
+          "skill": 66
+        },
+        {
+          "id": 178,
+          "skill": 66
+        },
+        {
+          "id": 456,
+          "skill": 66
+        },
+        {
+          "id": 546,
+          "skill": 66
+        },
+        {
+          "id": 903,
+          "skill": 66
+        },
+        {
+          "id": 953,
+          "skill": 66
+        }
+      ],
+      "teamB": [
+        {
+          "id": 148,
+          "skill": 66
+        },
+        {
+          "id": 238,
+          "skill": 66
+        },
+        {
+          "id": 513,
+          "skill": 66
+        },
+        {
+          "id": 686,
+          "skill": 66
+        },
+        {
+          "id": 933,
+          "skill": 66
+        },
+        {
+          "id": 80,
+          "skill": 66
+        }
+      ]
+    },
+    {
+      "id": "2d961485-4000-43e7-834f-9f032c705dc2",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 7,
+          "skill": 65
+        },
+        {
+          "id": 330,
+          "skill": 65
+        },
+        {
+          "id": 423,
+          "skill": 65
+        },
+        {
+          "id": 524,
+          "skill": 65
+        },
+        {
+          "id": 897,
+          "skill": 65
+        },
+        {
+          "id": 153,
+          "skill": 64
+        }
+      ],
+      "teamB": [
+        {
+          "id": 53,
+          "skill": 65
+        },
+        {
+          "id": 415,
+          "skill": 65
+        },
+        {
+          "id": 498,
+          "skill": 65
+        },
+        {
+          "id": 671,
+          "skill": 65
+        },
+        {
+          "id": 133,
+          "skill": 64
+        },
+        {
+          "id": 995,
+          "skill": 66
+        }
+      ]
+    },
+    {
+      "id": "a0723d92-8085-4450-8a34-7ad22e760c3d",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 329,
+          "skill": 64
+        },
+        {
+          "id": 464,
+          "skill": 64
+        },
+        {
+          "id": 45,
+          "skill": 63
+        },
+        {
+          "id": 92,
+          "skill": 63
+        },
+        {
+          "id": 347,
+          "skill": 63
+        },
+        {
+          "id": 443,
+          "skill": 63
+        }
+      ],
+      "teamB": [
+        {
+          "id": 453,
+          "skill": 64
+        },
+        {
+          "id": 687,
+          "skill": 64
+        },
+        {
+          "id": 57,
+          "skill": 63
+        },
+        {
+          "id": 258,
+          "skill": 63
+        },
+        {
+          "id": 368,
+          "skill": 63
+        },
+        {
+          "id": 308,
+          "skill": 64
+        }
+      ]
+    },
+    {
+      "id": "3d413ef8-b9ee-4e94-b24e-48018447a79f",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 768,
+          "skill": 63
+        },
+        {
+          "id": 899,
+          "skill": 63
+        },
+        {
+          "id": 339,
+          "skill": 62
+        },
+        {
+          "id": 562,
+          "skill": 62
+        },
+        {
+          "id": 782,
+          "skill": 62
+        },
+        {
+          "id": 151,
+          "skill": 61
+        }
+      ],
+      "teamB": [
+        {
+          "id": 831,
+          "skill": 63
+        },
+        {
+          "id": 222,
+          "skill": 62
+        },
+        {
+          "id": 528,
+          "skill": 62
+        },
+        {
+          "id": 749,
+          "skill": 62
+        },
+        {
+          "id": 47,
+          "skill": 61
+        },
+        {
+          "id": 636,
+          "skill": 63
+        }
+      ]
+    },
+    {
+      "id": "bdf5e59b-9a78-4e51-bed8-79a4f50a1613",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 658,
+          "skill": 61
+        },
+        {
+          "id": 704,
+          "skill": 61
+        },
+        {
+          "id": 252,
+          "skill": 60
+        },
+        {
+          "id": 641,
+          "skill": 60
+        },
+        {
+          "id": 693,
+          "skill": 60
+        },
+        {
+          "id": 900,
+          "skill": 60
+        }
+      ],
+      "teamB": [
+        {
+          "id": 669,
+          "skill": 61
+        },
+        {
+          "id": 185,
+          "skill": 60
+        },
+        {
+          "id": 270,
+          "skill": 60
+        },
+        {
+          "id": 643,
+          "skill": 60
+        },
+        {
+          "id": 880,
+          "skill": 60
+        },
+        {
+          "id": 383,
+          "skill": 61
+        }
+      ]
+    },
+    {
+      "id": "c4f4a56c-8cd8-40ae-bcc1-9ef8ef05e068",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 389,
+          "skill": 59
+        },
+        {
+          "id": 470,
+          "skill": 59
+        },
+        {
+          "id": 541,
+          "skill": 59
+        },
+        {
+          "id": 752,
+          "skill": 59
+        },
+        {
+          "id": 946,
+          "skill": 59
+        },
+        {
+          "id": 202,
+          "skill": 58
+        }
+      ],
+      "teamB": [
+        {
+          "id": 404,
+          "skill": 59
+        },
+        {
+          "id": 495,
+          "skill": 59
+        },
+        {
+          "id": 728,
+          "skill": 59
+        },
+        {
+          "id": 876,
+          "skill": 59
+        },
+        {
+          "id": 982,
+          "skill": 59
+        },
+        {
+          "id": 163,
+          "skill": 59
+        }
+      ]
+    },
+    {
+      "id": "124ef455-ed6b-42a9-adbf-db2595087d0a",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 269,
+          "skill": 58
+        },
+        {
+          "id": 310,
+          "skill": 58
+        },
+        {
+          "id": 418,
+          "skill": 58
+        },
+        {
+          "id": 580,
+          "skill": 58
+        },
+        {
+          "id": 659,
+          "skill": 58
+        },
+        {
+          "id": 769,
+          "skill": 58
+        }
+      ],
+      "teamB": [
+        {
+          "id": 298,
+          "skill": 58
+        },
+        {
+          "id": 387,
+          "skill": 58
+        },
+        {
+          "id": 555,
+          "skill": 58
+        },
+        {
+          "id": 594,
+          "skill": 58
+        },
+        {
+          "id": 754,
+          "skill": 58
+        },
+        {
+          "id": 206,
+          "skill": 58
+        }
+      ]
+    },
+    {
+      "id": "dde56d63-5733-4714-bef4-8c3271cca7bc",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 28,
+          "skill": 57
+        },
+        {
+          "id": 88,
+          "skill": 57
+        },
+        {
+          "id": 416,
+          "skill": 57
+        },
+        {
+          "id": 629,
+          "skill": 57
+        },
+        {
+          "id": 710,
+          "skill": 57
+        },
+        {
+          "id": 774,
+          "skill": 57
+        }
+      ],
+      "teamB": [
+        {
+          "id": 58,
+          "skill": 57
+        },
+        {
+          "id": 297,
+          "skill": 57
+        },
+        {
+          "id": 452,
+          "skill": 57
+        },
+        {
+          "id": 668,
+          "skill": 57
+        },
+        {
+          "id": 714,
+          "skill": 57
+        },
+        {
+          "id": 788,
+          "skill": 58
+        }
+      ]
+    },
+    {
+      "id": "5e4b9075-d689-4eaa-884c-20f2812678ab",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 798,
+          "skill": 57
+        },
+        {
+          "id": 816,
+          "skill": 57
+        },
+        {
+          "id": 874,
+          "skill": 57
+        },
+        {
+          "id": 74,
+          "skill": 56
+        },
+        {
+          "id": 570,
+          "skill": 56
+        },
+        {
+          "id": 670,
+          "skill": 56
+        }
+      ],
+      "teamB": [
+        {
+          "id": 812,
+          "skill": 57
+        },
+        {
+          "id": 861,
+          "skill": 57
+        },
+        {
+          "id": 881,
+          "skill": 57
+        },
+        {
+          "id": 264,
+          "skill": 56
+        },
+        {
+          "id": 598,
+          "skill": 56
+        },
+        {
+          "id": 780,
+          "skill": 57
+        }
+      ]
+    },
+    {
+      "id": "d2d36326-5c21-468d-a388-453bcc50439e",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 77,
+          "skill": 55
+        },
+        {
+          "id": 291,
+          "skill": 55
+        },
+        {
+          "id": 856,
+          "skill": 55
+        },
+        {
+          "id": 374,
+          "skill": 54
+        },
+        {
+          "id": 489,
+          "skill": 54
+        },
+        {
+          "id": 621,
+          "skill": 54
+        }
+      ],
+      "teamB": [
+        {
+          "id": 123,
+          "skill": 55
+        },
+        {
+          "id": 793,
+          "skill": 55
+        },
+        {
+          "id": 272,
+          "skill": 54
+        },
+        {
+          "id": 433,
+          "skill": 54
+        },
+        {
+          "id": 577,
+          "skill": 54
+        },
+        {
+          "id": 826,
+          "skill": 56
+        }
+      ]
+    },
+    {
+      "id": "23c4ed2d-67ab-4d9e-8102-09f38bc9f5d3",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 776,
+          "skill": 54
+        },
+        {
+          "id": 26,
+          "skill": 53
+        },
+        {
+          "id": 242,
+          "skill": 53
+        },
+        {
+          "id": 346,
+          "skill": 53
+        },
+        {
+          "id": 449,
+          "skill": 53
+        },
+        {
+          "id": 522,
+          "skill": 53
+        }
+      ],
+      "teamB": [
+        {
+          "id": 9,
+          "skill": 53
+        },
+        {
+          "id": 223,
+          "skill": 53
+        },
+        {
+          "id": 312,
+          "skill": 53
+        },
+        {
+          "id": 364,
+          "skill": 53
+        },
+        {
+          "id": 516,
+          "skill": 53
+        },
+        {
+          "id": 737,
+          "skill": 54
+        }
+      ]
+    },
+    {
+      "id": "f12f357d-a685-4f8b-b98e-88a5e44d87f5",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 784,
+          "skill": 53
+        },
+        {
+          "id": 71,
+          "skill": 52
+        },
+        {
+          "id": 595,
+          "skill": 52
+        },
+        {
+          "id": 725,
+          "skill": 52
+        },
+        {
+          "id": 832,
+          "skill": 52
+        },
+        {
+          "id": 14,
+          "skill": 51
+        }
+      ],
+      "teamB": [
+        {
+          "id": 31,
+          "skill": 52
+        },
+        {
+          "id": 551,
+          "skill": 52
+        },
+        {
+          "id": 623,
+          "skill": 52
+        },
+        {
+          "id": 741,
+          "skill": 52
+        },
+        {
+          "id": 954,
+          "skill": 52
+        },
+        {
+          "id": 4,
+          "skill": 52
+        }
+      ]
+    },
+    {
+      "id": "3843df96-ce84-4154-bfc4-848aa6f7c33f",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 90,
+          "skill": 51
+        },
+        {
+          "id": 396,
+          "skill": 51
+        },
+        {
+          "id": 628,
+          "skill": 51
+        },
+        {
+          "id": 952,
+          "skill": 51
+        },
+        {
+          "id": 60,
+          "skill": 50
+        },
+        {
+          "id": 213,
+          "skill": 50
+        }
+      ],
+      "teamB": [
+        {
+          "id": 249,
+          "skill": 51
+        },
+        {
+          "id": 435,
+          "skill": 51
+        },
+        {
+          "id": 664,
+          "skill": 51
+        },
+        {
+          "id": 968,
+          "skill": 51
+        },
+        {
+          "id": 91,
+          "skill": 50
+        },
+        {
+          "id": 46,
+          "skill": 51
+        }
+      ]
+    },
+    {
+      "id": "9450e29a-803f-46ad-83b5-50dfb7b119f1",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 244,
+          "skill": 50
+        },
+        {
+          "id": 865,
+          "skill": 50
+        },
+        {
+          "id": 977,
+          "skill": 50
+        },
+        {
+          "id": 96,
+          "skill": 49
+        },
+        {
+          "id": 365,
+          "skill": 49
+        },
+        {
+          "id": 408,
+          "skill": 49
+        }
+      ],
+      "teamB": [
+        {
+          "id": 487,
+          "skill": 50
+        },
+        {
+          "id": 962,
+          "skill": 50
+        },
+        {
+          "id": 20,
+          "skill": 49
+        },
+        {
+          "id": 318,
+          "skill": 49
+        },
+        {
+          "id": 402,
+          "skill": 49
+        },
+        {
+          "id": 218,
+          "skill": 50
+        }
+      ]
+    },
+    {
+      "id": "dd51f45f-5af4-4e8b-beac-c5e289b9b8ef",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 841,
+          "skill": 49
+        },
+        {
+          "id": 930,
+          "skill": 49
+        },
+        {
+          "id": 263,
+          "skill": 48
+        },
+        {
+          "id": 537,
+          "skill": 48
+        },
+        {
+          "id": 678,
+          "skill": 48
+        },
+        {
+          "id": 824,
+          "skill": 48
+        }
+      ],
+      "teamB": [
+        {
+          "id": 875,
+          "skill": 49
+        },
+        {
+          "id": 248,
+          "skill": 48
+        },
+        {
+          "id": 451,
+          "skill": 48
+        },
+        {
+          "id": 612,
+          "skill": 48
+        },
+        {
+          "id": 706,
+          "skill": 48
+        },
+        {
+          "id": 692,
+          "skill": 49
+        }
+      ]
+    },
+    {
+      "id": "adfce044-eb31-40fc-a0de-948c7e103f60",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 142,
+          "skill": 47
+        },
+        {
+          "id": 434,
+          "skill": 47
+        },
+        {
+          "id": 571,
+          "skill": 47
+        },
+        {
+          "id": 837,
+          "skill": 47
+        },
+        {
+          "id": 12,
+          "skill": 46
+        },
+        {
+          "id": 372,
+          "skill": 46
+        }
+      ],
+      "teamB": [
+        {
+          "id": 279,
+          "skill": 47
+        },
+        {
+          "id": 473,
+          "skill": 47
+        },
+        {
+          "id": 676,
+          "skill": 47
+        },
+        {
+          "id": 988,
+          "skill": 47
+        },
+        {
+          "id": 108,
+          "skill": 46
+        },
+        {
+          "id": 110,
+          "skill": 47
+        }
+      ]
+    },
+    {
+      "id": "5eb4c11e-0908-45f4-9aac-babe20fd147b",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 589,
+          "skill": 46
+        },
+        {
+          "id": 66,
+          "skill": 45
+        },
+        {
+          "id": 134,
+          "skill": 45
+        },
+        {
+          "id": 388,
+          "skill": 45
+        },
+        {
+          "id": 654,
+          "skill": 45
+        },
+        {
+          "id": 694,
+          "skill": 45
+        }
+      ],
+      "teamB": [
+        {
+          "id": 869,
+          "skill": 46
+        },
+        {
+          "id": 102,
+          "skill": 45
+        },
+        {
+          "id": 335,
+          "skill": 45
+        },
+        {
+          "id": 427,
+          "skill": 45
+        },
+        {
+          "id": 684,
+          "skill": 45
+        },
+        {
+          "id": 501,
+          "skill": 46
+        }
+      ]
+    },
+    {
+      "id": "229ac81b-6628-41ca-9a23-830b9a172ba6",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 759,
+          "skill": 45
+        },
+        {
+          "id": 975,
+          "skill": 45
+        },
+        {
+          "id": 285,
+          "skill": 44
+        },
+        {
+          "id": 478,
+          "skill": 44
+        },
+        {
+          "id": 588,
+          "skill": 44
+        },
+        {
+          "id": 872,
+          "skill": 44
+        }
+      ],
+      "teamB": [
+        {
+          "id": 822,
+          "skill": 45
+        },
+        {
+          "id": 990,
+          "skill": 45
+        },
+        {
+          "id": 359,
+          "skill": 44
+        },
+        {
+          "id": 532,
+          "skill": 44
+        },
+        {
+          "id": 616,
+          "skill": 44
+        },
+        {
+          "id": 745,
+          "skill": 45
+        }
+      ]
+    },
+    {
+      "id": "b06eb06c-8c5a-40d0-8ec1-661ab5b23276",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 966,
+          "skill": 44
+        },
+        {
+          "id": 161,
+          "skill": 43
+        },
+        {
+          "id": 265,
+          "skill": 43
+        },
+        {
+          "id": 485,
+          "skill": 43
+        },
+        {
+          "id": 971,
+          "skill": 43
+        },
+        {
+          "id": 984,
+          "skill": 43
+        }
+      ],
+      "teamB": [
+        {
+          "id": 991,
+          "skill": 44
+        },
+        {
+          "id": 180,
+          "skill": 43
+        },
+        {
+          "id": 307,
+          "skill": 43
+        },
+        {
+          "id": 545,
+          "skill": 43
+        },
+        {
+          "id": 979,
+          "skill": 43
+        },
+        {
+          "id": 940,
+          "skill": 44
+        }
+      ]
+    },
+    {
+      "id": "11a47fdd-7cc8-4dcd-ae57-8b810c800880",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 255,
+          "skill": 42
+        },
+        {
+          "id": 633,
+          "skill": 42
+        },
+        {
+          "id": 719,
+          "skill": 42
+        },
+        {
+          "id": 799,
+          "skill": 42
+        },
+        {
+          "id": 95,
+          "skill": 41
+        },
+        {
+          "id": 284,
+          "skill": 41
+        }
+      ],
+      "teamB": [
+        {
+          "id": 493,
+          "skill": 42
+        },
+        {
+          "id": 701,
+          "skill": 42
+        },
+        {
+          "id": 763,
+          "skill": 42
+        },
+        {
+          "id": 85,
+          "skill": 41
+        },
+        {
+          "id": 98,
+          "skill": 41
+        },
+        {
+          "id": 38,
+          "skill": 42
+        }
+      ]
+    },
+    {
+      "id": "a214d367-ce12-427f-adad-4156b96b7914",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 324,
+          "skill": 41
+        },
+        {
+          "id": 583,
+          "skill": 41
+        },
+        {
+          "id": 746,
+          "skill": 41
+        },
+        {
+          "id": 35,
+          "skill": 40
+        },
+        {
+          "id": 381,
+          "skill": 40
+        },
+        {
+          "id": 761,
+          "skill": 40
+        }
+      ],
+      "teamB": [
+        {
+          "id": 409,
+          "skill": 41
+        },
+        {
+          "id": 602,
+          "skill": 41
+        },
+        {
+          "id": 753,
+          "skill": 41
+        },
+        {
+          "id": 229,
+          "skill": 40
+        },
+        {
+          "id": 510,
+          "skill": 40
+        },
+        {
+          "id": 294,
+          "skill": 41
+        }
+      ]
+    },
+    {
+      "id": "a4b18196-f160-46bb-b5b3-1a8bfba90109",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 942,
+          "skill": 40
+        },
+        {
+          "id": 950,
+          "skill": 40
+        },
+        {
+          "id": 471,
+          "skill": 39
+        },
+        {
+          "id": 677,
+          "skill": 39
+        },
+        {
+          "id": 140,
+          "skill": 38
+        },
+        {
+          "id": 361,
+          "skill": 38
+        }
+      ],
+      "teamB": [
+        {
+          "id": 171,
+          "skill": 39
+        },
+        {
+          "id": 332,
+          "skill": 39
+        },
+        {
+          "id": 558,
+          "skill": 39
+        },
+        {
+          "id": 981,
+          "skill": 39
+        },
+        {
+          "id": 220,
+          "skill": 38
+        },
+        {
+          "id": 910,
+          "skill": 40
+        }
+      ]
+    },
+    {
+      "id": "b528fdba-6571-454f-b625-4d6cf7ddca6b",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 472,
+          "skill": 38
+        },
+        {
+          "id": 858,
+          "skill": 38
+        },
+        {
+          "id": 956,
+          "skill": 38
+        },
+        {
+          "id": 187,
+          "skill": 37
+        },
+        {
+          "id": 469,
+          "skill": 37
+        },
+        {
+          "id": 550,
+          "skill": 37
+        }
+      ],
+      "teamB": [
+        {
+          "id": 630,
+          "skill": 38
+        },
+        {
+          "id": 928,
+          "skill": 38
+        },
+        {
+          "id": 994,
+          "skill": 38
+        },
+        {
+          "id": 414,
+          "skill": 37
+        },
+        {
+          "id": 549,
+          "skill": 37
+        },
+        {
+          "id": 432,
+          "skill": 38
+        }
+      ]
+    },
+    {
+      "id": "5a477323-9783-4722-a9ac-cc0a0fb09e3d",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 809,
+          "skill": 37
+        },
+        {
+          "id": 839,
+          "skill": 37
+        },
+        {
+          "id": 87,
+          "skill": 36
+        },
+        {
+          "id": 251,
+          "skill": 36
+        },
+        {
+          "id": 302,
+          "skill": 36
+        },
+        {
+          "id": 475,
+          "skill": 36
+        }
+      ],
+      "teamB": [
+        {
+          "id": 823,
+          "skill": 37
+        },
+        {
+          "id": 993,
+          "skill": 37
+        },
+        {
+          "id": 154,
+          "skill": 36
+        },
+        {
+          "id": 260,
+          "skill": 36
+        },
+        {
+          "id": 331,
+          "skill": 36
+        },
+        {
+          "id": 585,
+          "skill": 37
+        }
+      ]
+    },
+    {
+      "id": "f7e10596-bc30-4403-9e7e-69e0234c98bd",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 756,
+          "skill": 36
+        },
+        {
+          "id": 785,
+          "skill": 36
+        },
+        {
+          "id": 935,
+          "skill": 36
+        },
+        {
+          "id": 137,
+          "skill": 35
+        },
+        {
+          "id": 353,
+          "skill": 35
+        },
+        {
+          "id": 627,
+          "skill": 35
+        }
+      ],
+      "teamB": [
+        {
+          "id": 770,
+          "skill": 36
+        },
+        {
+          "id": 893,
+          "skill": 36
+        },
+        {
+          "id": 938,
+          "skill": 36
+        },
+        {
+          "id": 295,
+          "skill": 35
+        },
+        {
+          "id": 626,
+          "skill": 35
+        },
+        {
+          "id": 572,
+          "skill": 36
+        }
+      ]
+    },
+    {
+      "id": "b51fd37b-7de6-4888-bffa-3d5b5d131920",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 723,
+          "skill": 35
+        },
+        {
+          "id": 30,
+          "skill": 34
+        },
+        {
+          "id": 113,
+          "skill": 34
+        },
+        {
+          "id": 170,
+          "skill": 34
+        },
+        {
+          "id": 382,
+          "skill": 34
+        },
+        {
+          "id": 463,
+          "skill": 34
+        }
+      ],
+      "teamB": [
+        {
+          "id": 11,
+          "skill": 34
+        },
+        {
+          "id": 93,
+          "skill": 34
+        },
+        {
+          "id": 164,
+          "skill": 34
+        },
+        {
+          "id": 207,
+          "skill": 34
+        },
+        {
+          "id": 411,
+          "skill": 34
+        },
+        {
+          "id": 652,
+          "skill": 35
+        }
+      ]
+    },
+    {
+      "id": "c85df25b-c563-479c-aec0-3f5c48493302",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 490,
+          "skill": 34
+        },
+        {
+          "id": 879,
+          "skill": 34
+        },
+        {
+          "id": 573,
+          "skill": 34
+        },
+        {
+          "id": 313,
+          "skill": 33
+        },
+        {
+          "id": 126,
+          "skill": 32
+        },
+        {
+          "id": 152,
+          "skill": 32
+        }
+      ],
+      "teamB": [
+        {
+          "id": 205,
+          "skill": 33
+        },
+        {
+          "id": 944,
+          "skill": 34
+        },
+        {
+          "id": 239,
+          "skill": 33
+        },
+        {
+          "id": 586,
+          "skill": 33
+        },
+        {
+          "id": 139,
+          "skill": 32
+        },
+        {
+          "id": 480,
+          "skill": 34
+        }
+      ]
+    },
+    {
+      "id": "5863dda2-dfff-4f42-8eaf-305e88390504",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 287,
+          "skill": 32
+        },
+        {
+          "id": 357,
+          "skill": 32
+        },
+        {
+          "id": 796,
+          "skill": 32
+        },
+        {
+          "id": 830,
+          "skill": 32
+        },
+        {
+          "id": 932,
+          "skill": 32
+        },
+        {
+          "id": 63,
+          "skill": 31
+        }
+      ],
+      "teamB": [
+        {
+          "id": 348,
+          "skill": 32
+        },
+        {
+          "id": 508,
+          "skill": 32
+        },
+        {
+          "id": 815,
+          "skill": 32
+        },
+        {
+          "id": 834,
+          "skill": 32
+        },
+        {
+          "id": 32,
+          "skill": 31
+        },
+        {
+          "id": 216,
+          "skill": 32
+        }
+      ]
+    },
+    {
+      "id": "da0d8b53-d855-4a92-ae5d-29e4cd71cb18",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 227,
+          "skill": 31
+        },
+        {
+          "id": 336,
+          "skill": 31
+        },
+        {
+          "id": 515,
+          "skill": 31
+        },
+        {
+          "id": 850,
+          "skill": 31
+        },
+        {
+          "id": 939,
+          "skill": 31
+        },
+        {
+          "id": 345,
+          "skill": 30
+        }
+      ],
+      "teamB": [
+        {
+          "id": 314,
+          "skill": 31
+        },
+        {
+          "id": 483,
+          "skill": 31
+        },
+        {
+          "id": 600,
+          "skill": 31
+        },
+        {
+          "id": 931,
+          "skill": 31
+        },
+        {
+          "id": 268,
+          "skill": 30
+        },
+        {
+          "id": 199,
+          "skill": 31
+        }
+      ]
+    },
+    {
+      "id": "42f9bd25-49e3-4efc-84f4-a5aecda22b2e",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 518,
+          "skill": 30
+        },
+        {
+          "id": 552,
+          "skill": 30
+        },
+        {
+          "id": 560,
+          "skill": 30
+        },
+        {
+          "id": 821,
+          "skill": 30
+        },
+        {
+          "id": 104,
+          "skill": 29
+        },
+        {
+          "id": 370,
+          "skill": 29
+        }
+      ],
+      "teamB": [
+        {
+          "id": 548,
+          "skill": 30
+        },
+        {
+          "id": 556,
+          "skill": 30
+        },
+        {
+          "id": 665,
+          "skill": 30
+        },
+        {
+          "id": 3,
+          "skill": 29
+        },
+        {
+          "id": 181,
+          "skill": 29
+        },
+        {
+          "id": 509,
+          "skill": 30
+        }
+      ]
+    },
+    {
+      "id": "33747588-3abd-4527-a66a-51756132c3ae",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 601,
+          "skill": 29
+        },
+        {
+          "id": 639,
+          "skill": 29
+        },
+        {
+          "id": 744,
+          "skill": 29
+        },
+        {
+          "id": 808,
+          "skill": 29
+        },
+        {
+          "id": 182,
+          "skill": 28
+        },
+        {
+          "id": 305,
+          "skill": 28
+        }
+      ],
+      "teamB": [
+        {
+          "id": 617,
+          "skill": 29
+        },
+        {
+          "id": 662,
+          "skill": 29
+        },
+        {
+          "id": 775,
+          "skill": 29
+        },
+        {
+          "id": 19,
+          "skill": 28
+        },
+        {
+          "id": 253,
+          "skill": 28
+        },
+        {
+          "id": 437,
+          "skill": 29
+        }
+      ]
+    },
+    {
+      "id": "76d2e30d-39bb-4cab-b03b-a8e66d296988",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 352,
+          "skill": 28
+        },
+        {
+          "id": 597,
+          "skill": 28
+        },
+        {
+          "id": 651,
+          "skill": 28
+        },
+        {
+          "id": 695,
+          "skill": 28
+        },
+        {
+          "id": 936,
+          "skill": 28
+        },
+        {
+          "id": 72,
+          "skill": 27
+        }
+      ],
+      "teamB": [
+        {
+          "id": 539,
+          "skill": 28
+        },
+        {
+          "id": 615,
+          "skill": 28
+        },
+        {
+          "id": 689,
+          "skill": 28
+        },
+        {
+          "id": 919,
+          "skill": 28
+        },
+        {
+          "id": 961,
+          "skill": 28
+        },
+        {
+          "id": 319,
+          "skill": 28
+        }
+      ]
+    },
+    {
+      "id": "6145ad81-015a-4512-89cf-599433ee3e82",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 184,
+          "skill": 27
+        },
+        {
+          "id": 320,
+          "skill": 27
+        },
+        {
+          "id": 455,
+          "skill": 27
+        },
+        {
+          "id": 529,
+          "skill": 27
+        },
+        {
+          "id": 618,
+          "skill": 27
+        },
+        {
+          "id": 795,
+          "skill": 27
+        }
+      ],
+      "teamB": [
+        {
+          "id": 192,
+          "skill": 27
+        },
+        {
+          "id": 373,
+          "skill": 27
+        },
+        {
+          "id": 477,
+          "skill": 27
+        },
+        {
+          "id": 614,
+          "skill": 27
+        },
+        {
+          "id": 620,
+          "skill": 27
+        },
+        {
+          "id": 128,
+          "skill": 27
+        }
+      ]
+    },
+    {
+      "id": "8341d702-471e-4bc7-998f-fdb2b90d4327",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 65,
+          "skill": 26
+        },
+        {
+          "id": 507,
+          "skill": 26
+        },
+        {
+          "id": 561,
+          "skill": 26
+        },
+        {
+          "id": 582,
+          "skill": 26
+        },
+        {
+          "id": 802,
+          "skill": 26
+        },
+        {
+          "id": 843,
+          "skill": 26
+        }
+      ],
+      "teamB": [
+        {
+          "id": 326,
+          "skill": 26
+        },
+        {
+          "id": 544,
+          "skill": 26
+        },
+        {
+          "id": 567,
+          "skill": 26
+        },
+        {
+          "id": 720,
+          "skill": 26
+        },
+        {
+          "id": 842,
+          "skill": 26
+        },
+        {
+          "id": 868,
+          "skill": 27
+        }
+      ]
+    },
+    {
+      "id": "950aac98-bf6b-4940-a54b-26d14fd33210",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 980,
+          "skill": 26
+        },
+        {
+          "id": 112,
+          "skill": 25
+        },
+        {
+          "id": 188,
+          "skill": 25
+        },
+        {
+          "id": 609,
+          "skill": 25
+        },
+        {
+          "id": 896,
+          "skill": 25
+        },
+        {
+          "id": 233,
+          "skill": 24
+        }
+      ],
+      "teamB": [
+        {
+          "id": 18,
+          "skill": 25
+        },
+        {
+          "id": 122,
+          "skill": 25
+        },
+        {
+          "id": 321,
+          "skill": 25
+        },
+        {
+          "id": 886,
+          "skill": 25
+        },
+        {
+          "id": 37,
+          "skill": 24
+        },
+        {
+          "id": 913,
+          "skill": 26
+        }
+      ]
+    },
+    {
+      "id": "507403df-3cad-4f15-b04e-6956c04bee3d",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 512,
+          "skill": 24
+        },
+        {
+          "id": 697,
+          "skill": 24
+        },
+        {
+          "id": 976,
+          "skill": 24
+        },
+        {
+          "id": 116,
+          "skill": 23
+        },
+        {
+          "id": 458,
+          "skill": 23
+        },
+        {
+          "id": 787,
+          "skill": 23
+        }
+      ],
+      "teamB": [
+        {
+          "id": 655,
+          "skill": 24
+        },
+        {
+          "id": 926,
+          "skill": 24
+        },
+        {
+          "id": 101,
+          "skill": 23
+        },
+        {
+          "id": 380,
+          "skill": 23
+        },
+        {
+          "id": 553,
+          "skill": 23
+        },
+        {
+          "id": 395,
+          "skill": 24
+        }
+      ]
+    },
+    {
+      "id": "d00a525d-5d9d-4627-9eee-3a8cc51452c5",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 40,
+          "skill": 22
+        },
+        {
+          "id": 156,
+          "skill": 22
+        },
+        {
+          "id": 276,
+          "skill": 22
+        },
+        {
+          "id": 503,
+          "skill": 22
+        },
+        {
+          "id": 605,
+          "skill": 22
+        },
+        {
+          "id": 717,
+          "skill": 22
+        }
+      ],
+      "teamB": [
+        {
+          "id": 67,
+          "skill": 22
+        },
+        {
+          "id": 228,
+          "skill": 22
+        },
+        {
+          "id": 439,
+          "skill": 22
+        },
+        {
+          "id": 559,
+          "skill": 22
+        },
+        {
+          "id": 679,
+          "skill": 22
+        },
+        {
+          "id": 949,
+          "skill": 23
+        }
+      ]
+    },
+    {
+      "id": "08751299-9aec-450e-884f-6b8c430c9c5f",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 836,
+          "skill": 22
+        },
+        {
+          "id": 965,
+          "skill": 22
+        },
+        {
+          "id": 127,
+          "skill": 21
+        },
+        {
+          "id": 661,
+          "skill": 21
+        },
+        {
+          "id": 907,
+          "skill": 21
+        },
+        {
+          "id": 334,
+          "skill": 20
+        }
+      ],
+      "teamB": [
+        {
+          "id": 917,
+          "skill": 22
+        },
+        {
+          "id": 969,
+          "skill": 22
+        },
+        {
+          "id": 288,
+          "skill": 21
+        },
+        {
+          "id": 711,
+          "skill": 21
+        },
+        {
+          "id": 219,
+          "skill": 20
+        },
+        {
+          "id": 800,
+          "skill": 22
+        }
+      ]
+    },
+    {
+      "id": "293b4812-b046-4e6f-b274-546beaa5b60a",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 441,
+          "skill": 20
+        },
+        {
+          "id": 465,
+          "skill": 20
+        },
+        {
+          "id": 578,
+          "skill": 20
+        },
+        {
+          "id": 683,
+          "skill": 20
+        },
+        {
+          "id": 827,
+          "skill": 20
+        },
+        {
+          "id": 42,
+          "skill": 19
+        }
+      ],
+      "teamB": [
+        {
+          "id": 446,
+          "skill": 20
+        },
+        {
+          "id": 525,
+          "skill": 20
+        },
+        {
+          "id": 584,
+          "skill": 20
+        },
+        {
+          "id": 786,
+          "skill": 20
+        },
+        {
+          "id": 870,
+          "skill": 20
+        },
+        {
+          "id": 392,
+          "skill": 20
+        }
+      ]
+    },
+    {
+      "id": "02a637c2-d298-4dee-8f17-0dec976f8b63",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 226,
+          "skill": 19
+        },
+        {
+          "id": 405,
+          "skill": 19
+        },
+        {
+          "id": 459,
+          "skill": 19
+        },
+        {
+          "id": 648,
+          "skill": 19
+        },
+        {
+          "id": 848,
+          "skill": 19
+        },
+        {
+          "id": 208,
+          "skill": 18
+        }
+      ],
+      "teamB": [
+        {
+          "id": 398,
+          "skill": 19
+        },
+        {
+          "id": 406,
+          "skill": 19
+        },
+        {
+          "id": 466,
+          "skill": 19
+        },
+        {
+          "id": 732,
+          "skill": 19
+        },
+        {
+          "id": 958,
+          "skill": 19
+        },
+        {
+          "id": 54,
+          "skill": 19
+        }
+      ]
+    },
+    {
+      "id": "da1c44aa-e7bc-48e8-87e1-b3313041312f",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 292,
+          "skill": 18
+        },
+        {
+          "id": 384,
+          "skill": 18
+        },
+        {
+          "id": 401,
+          "skill": 18
+        },
+        {
+          "id": 581,
+          "skill": 18
+        },
+        {
+          "id": 653,
+          "skill": 18
+        },
+        {
+          "id": 989,
+          "skill": 18
+        }
+      ],
+      "teamB": [
+        {
+          "id": 349,
+          "skill": 18
+        },
+        {
+          "id": 400,
+          "skill": 18
+        },
+        {
+          "id": 447,
+          "skill": 18
+        },
+        {
+          "id": 632,
+          "skill": 18
+        },
+        {
+          "id": 877,
+          "skill": 18
+        },
+        {
+          "id": 221,
+          "skill": 18
+        }
+      ]
+    },
+    {
+      "id": "407a30a3-0946-4315-aceb-c18e3ca1c968",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 165,
+          "skill": 17
+        },
+        {
+          "id": 534,
+          "skill": 17
+        },
+        {
+          "id": 803,
+          "skill": 17
+        },
+        {
+          "id": 878,
+          "skill": 17
+        },
+        {
+          "id": 457,
+          "skill": 16
+        },
+        {
+          "id": 523,
+          "skill": 16
+        }
+      ],
+      "teamB": [
+        {
+          "id": 379,
+          "skill": 17
+        },
+        {
+          "id": 771,
+          "skill": 17
+        },
+        {
+          "id": 867,
+          "skill": 17
+        },
+        {
+          "id": 430,
+          "skill": 16
+        },
+        {
+          "id": 504,
+          "skill": 16
+        },
+        {
+          "id": 150,
+          "skill": 17
+        }
+      ]
+    },
+    {
+      "id": "61358a88-f59a-430e-a473-ea615a63b0d7",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 590,
+          "skill": 16
+        },
+        {
+          "id": 622,
+          "skill": 16
+        },
+        {
+          "id": 736,
+          "skill": 16
+        },
+        {
+          "id": 790,
+          "skill": 16
+        },
+        {
+          "id": 34,
+          "skill": 15
+        },
+        {
+          "id": 135,
+          "skill": 15
+        }
+      ],
+      "teamB": [
+        {
+          "id": 599,
+          "skill": 16
+        },
+        {
+          "id": 702,
+          "skill": 16
+        },
+        {
+          "id": 781,
+          "skill": 16
+        },
+        {
+          "id": 829,
+          "skill": 16
+        },
+        {
+          "id": 70,
+          "skill": 15
+        },
+        {
+          "id": 535,
+          "skill": 16
+        }
+      ]
+    },
+    {
+      "id": "c5e889b8-d168-4cb4-a2bd-54865bda0efc",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 201,
+          "skill": 15
+        },
+        {
+          "id": 236,
+          "skill": 15
+        },
+        {
+          "id": 454,
+          "skill": 15
+        },
+        {
+          "id": 547,
+          "skill": 15
+        },
+        {
+          "id": 726,
+          "skill": 15
+        },
+        {
+          "id": 941,
+          "skill": 15
+        }
+      ],
+      "teamB": [
+        {
+          "id": 211,
+          "skill": 15
+        },
+        {
+          "id": 316,
+          "skill": 15
+        },
+        {
+          "id": 460,
+          "skill": 15
+        },
+        {
+          "id": 603,
+          "skill": 15
+        },
+        {
+          "id": 885,
+          "skill": 15
+        },
+        {
+          "id": 160,
+          "skill": 15
+        }
+      ]
+    },
+    {
+      "id": "53c768ba-f60f-4f41-a6e9-db95fcb0a31d",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 111,
+          "skill": 14
+        },
+        {
+          "id": 225,
+          "skill": 14
+        },
+        {
+          "id": 531,
+          "skill": 14
+        },
+        {
+          "id": 740,
+          "skill": 14
+        },
+        {
+          "id": 852,
+          "skill": 14
+        },
+        {
+          "id": 970,
+          "skill": 14
+        }
+      ],
+      "teamB": [
+        {
+          "id": 149,
+          "skill": 14
+        },
+        {
+          "id": 438,
+          "skill": 14
+        },
+        {
+          "id": 593,
+          "skill": 14
+        },
+        {
+          "id": 772,
+          "skill": 14
+        },
+        {
+          "id": 892,
+          "skill": 14
+        },
+        {
+          "id": 945,
+          "skill": 15
+        }
+      ]
+    },
+    {
+      "id": "5fcb6ce3-0198-4419-a1b1-87dd327a87dd",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 261,
+          "skill": 13
+        },
+        {
+          "id": 591,
+          "skill": 13
+        },
+        {
+          "id": 974,
+          "skill": 13
+        },
+        {
+          "id": 196,
+          "skill": 12
+        },
+        {
+          "id": 526,
+          "skill": 12
+        },
+        {
+          "id": 672,
+          "skill": 12
+        }
+      ],
+      "teamB": [
+        {
+          "id": 317,
+          "skill": 13
+        },
+        {
+          "id": 762,
+          "skill": 13
+        },
+        {
+          "id": 195,
+          "skill": 12
+        },
+        {
+          "id": 315,
+          "skill": 12
+        },
+        {
+          "id": 660,
+          "skill": 12
+        },
+        {
+          "id": 51,
+          "skill": 13
+        }
+      ]
+    },
+    {
+      "id": "da0ce03c-f6c0-408f-a6e9-bdfa2fa6bf64",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 999,
+          "skill": 12
+        },
+        {
+          "id": 39,
+          "skill": 11
+        },
+        {
+          "id": 117,
+          "skill": 11
+        },
+        {
+          "id": 241,
+          "skill": 11
+        },
+        {
+          "id": 607,
+          "skill": 11
+        },
+        {
+          "id": 713,
+          "skill": 11
+        }
+      ],
+      "teamB": [
+        {
+          "id": 33,
+          "skill": 11
+        },
+        {
+          "id": 78,
+          "skill": 11
+        },
+        {
+          "id": 194,
+          "skill": 11
+        },
+        {
+          "id": 343,
+          "skill": 11
+        },
+        {
+          "id": 647,
+          "skill": 11
+        },
+        {
+          "id": 890,
+          "skill": 12
+        }
+      ]
+    },
+    {
+      "id": "92ac2d94-1f22-4639-8378-b933c810b8f7",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 846,
+          "skill": 11
+        },
+        {
+          "id": 864,
+          "skill": 11
+        },
+        {
+          "id": 342,
+          "skill": 10
+        },
+        {
+          "id": 376,
+          "skill": 10
+        },
+        {
+          "id": 707,
+          "skill": 10
+        },
+        {
+          "id": 24,
+          "skill": 9
+        }
+      ],
+      "teamB": [
+        {
+          "id": 1,
+          "skill": 10
+        },
+        {
+          "id": 278,
+          "skill": 10
+        },
+        {
+          "id": 354,
+          "skill": 10
+        },
+        {
+          "id": 424,
+          "skill": 10
+        },
+        {
+          "id": 764,
+          "skill": 10
+        },
+        {
+          "id": 814,
+          "skill": 11
+        }
+      ]
+    },
+    {
+      "id": "161baf59-429e-4bfa-867a-7b3598ec113e",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 468,
+          "skill": 9
+        },
+        {
+          "id": 536,
+          "skill": 9
+        },
+        {
+          "id": 476,
+          "skill": 9
+        },
+        {
+          "id": 390,
+          "skill": 8
+        },
+        {
+          "id": 851,
+          "skill": 8
+        },
+        {
+          "id": 44,
+          "skill": 7
+        }
+      ],
+      "teamB": [
+        {
+          "id": 200,
+          "skill": 8
+        },
+        {
+          "id": 937,
+          "skill": 9
+        },
+        {
+          "id": 299,
+          "skill": 8
+        },
+        {
+          "id": 428,
+          "skill": 8
+        },
+        {
+          "id": 996,
+          "skill": 8
+        },
+        {
+          "id": 175,
+          "skill": 9
+        }
+      ]
+    },
+    {
+      "id": "e010605d-d20a-4f47-9db4-6887d673dbf4",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 232,
+          "skill": 7
+        },
+        {
+          "id": 420,
+          "skill": 7
+        },
+        {
+          "id": 699,
+          "skill": 7
+        },
+        {
+          "id": 840,
+          "skill": 7
+        },
+        {
+          "id": 52,
+          "skill": 6
+        },
+        {
+          "id": 262,
+          "skill": 6
+        }
+      ],
+      "teamB": [
+        {
+          "id": 340,
+          "skill": 7
+        },
+        {
+          "id": 663,
+          "skill": 7
+        },
+        {
+          "id": 716,
+          "skill": 7
+        },
+        {
+          "id": 882,
+          "skill": 7
+        },
+        {
+          "id": 106,
+          "skill": 6
+        },
+        {
+          "id": 210,
+          "skill": 7
+        }
+      ]
+    },
+    {
+      "id": "ceeedd1e-9e83-4c01-93b6-3582cd5a4ba1",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 419,
+          "skill": 6
+        },
+        {
+          "id": 634,
+          "skill": 6
+        },
+        {
+          "id": 675,
+          "skill": 6
+        },
+        {
+          "id": 729,
+          "skill": 6
+        },
+        {
+          "id": 884,
+          "skill": 6
+        },
+        {
+          "id": 100,
+          "skill": 5
+        }
+      ],
+      "teamB": [
+        {
+          "id": 422,
+          "skill": 6
+        },
+        {
+          "id": 666,
+          "skill": 6
+        },
+        {
+          "id": 703,
+          "skill": 6
+        },
+        {
+          "id": 863,
+          "skill": 6
+        },
+        {
+          "id": 29,
+          "skill": 5
+        },
+        {
+          "id": 293,
+          "skill": 6
+        }
+      ]
+    },
+    {
+      "id": "c35a5e23-75ca-4851-8a3b-36ebbe341ec9",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 386,
+          "skill": 5
+        },
+        {
+          "id": 429,
+          "skill": 5
+        },
+        {
+          "id": 500,
+          "skill": 5
+        },
+        {
+          "id": 10,
+          "skill": 4
+        },
+        {
+          "id": 130,
+          "skill": 4
+        },
+        {
+          "id": 296,
+          "skill": 4
+        }
+      ],
+      "teamB": [
+        {
+          "id": 399,
+          "skill": 5
+        },
+        {
+          "id": 431,
+          "skill": 5
+        },
+        {
+          "id": 680,
+          "skill": 5
+        },
+        {
+          "id": 50,
+          "skill": 4
+        },
+        {
+          "id": 275,
+          "skill": 4
+        },
+        {
+          "id": 250,
+          "skill": 5
+        }
+      ]
+    },
+    {
+      "id": "79292a0f-602d-4579-9b85-84011978bfdd",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 497,
+          "skill": 4
+        },
+        {
+          "id": 921,
+          "skill": 4
+        },
+        {
+          "id": 6,
+          "skill": 3
+        },
+        {
+          "id": 114,
+          "skill": 3
+        },
+        {
+          "id": 325,
+          "skill": 3
+        },
+        {
+          "id": 491,
+          "skill": 3
+        }
+      ],
+      "teamB": [
+        {
+          "id": 844,
+          "skill": 4
+        },
+        {
+          "id": 986,
+          "skill": 4
+        },
+        {
+          "id": 97,
+          "skill": 3
+        },
+        {
+          "id": 309,
+          "skill": 3
+        },
+        {
+          "id": 377,
+          "skill": 3
+        },
+        {
+          "id": 467,
+          "skill": 4
+        }
+      ]
+    },
+    {
+      "id": "16034428-d078-4201-a3d3-cd30c6534b1a",
+      "teamSkillDelta": 0.0,
+      "teamA": [
+        {
+          "id": 511,
+          "skill": 3
+        },
+        {
+          "id": 955,
+          "skill": 3
+        },
+        {
+          "id": 115,
+          "skill": 2
+        },
+        {
+          "id": 565,
+          "skill": 2
+        },
+        {
+          "id": 631,
+          "skill": 2
+        },
+        {
+          "id": 779,
+          "skill": 2
+        }
+      ],
+      "teamB": [
+        {
+          "id": 859,
+          "skill": 3
+        },
+        {
+          "id": 16,
+          "skill": 2
+        },
+        {
+          "id": 159,
+          "skill": 2
+        },
+        {
+          "id": 611,
+          "skill": 2
+        },
+        {
+          "id": 773,
+          "skill": 2
+        },
+        {
+          "id": 494,
+          "skill": 3
+        }
+      ]
+    },
+    {
+      "id": "f0f46d9f-0833-4159-bddc-8ae13e3908fd",
+      "teamSkillDelta": 1.0,
+      "teamA": [
+        {
+          "id": 898,
+          "skill": 2
+        },
+        {
+          "id": 929,
+          "skill": 2
+        },
+        {
+          "id": 282,
+          "skill": 1
+        },
+        {
+          "id": 410,
+          "skill": 1
+        },
+        {
+          "id": 828,
+          "skill": 1
+        },
+        {
+          "id": 0,
+          "skill": 0
+        }
+      ],
+      "teamB": [
+        {
+          "id": 906,
+          "skill": 2
+        },
+        {
+          "id": 81,
+          "skill": 1
+        },
+        {
+          "id": 385,
+          "skill": 1
+        },
+        {
+          "id": 564,
+          "skill": 1
+        },
+        {
+          "id": 943,
+          "skill": 1
+        },
+        {
+          "id": 847,
+          "skill": 2
+        }
+      ]
+    }
+  ]
+}
